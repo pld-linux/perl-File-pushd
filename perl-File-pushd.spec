@@ -8,12 +8,12 @@
 Summary:	File::pushd - change directory temporarily for a limited scope
 Summary(pl.UTF-8):	File::pushd - tymczasowa zmiana katalogu dla ograniczonego kontekstu
 Name:		perl-File-pushd
-Version:	1.002
+Version:	1.016
 Release:	1
 License:	Apache v2.0
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/File/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	eac693b6968d99e0a3da89cd7babec11
+# Source0-md5:	1480e0d4813a8990c003e78338f00955
 URL:		http://search.cpan.org/dist/File-pushd/
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.30
 BuildRequires:	perl-devel >= 1:5.8.0
