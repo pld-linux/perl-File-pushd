@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	File
 %define	pnam	pushd
 Summary:	File::pushd - change directory temporarily for a limited scope
